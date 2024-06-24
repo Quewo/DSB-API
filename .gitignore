@@ -1,3 +1,4 @@
 # folder for virtual environment
 /apitest_venv/
 
+/app/__pycache__
